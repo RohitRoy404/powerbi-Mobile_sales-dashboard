@@ -48,7 +48,6 @@ It helps decision-makers track sales performance, customer behavior, and payment
 - Data Cleaning
 
 ## 📸 Dashboard Preview
-## 📸 Dashboard Preview
 ![Dashboard Preview](dashboard_overview.png)
 
 ---

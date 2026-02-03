@@ -45,7 +45,11 @@ It helps decision-makers track sales performance, customer behavior, and payment
 - Power BI Desktop  
 - DAX (Measures & Calculations)  
 - Data Modeling  
-- Data Cleaning  
+- Data Cleaning
+
+## 📸 Dashboard Preview
+## 📸 Dashboard Preview
+![Dashboard Preview](dashboard_overview.png)
 
 ---
 
